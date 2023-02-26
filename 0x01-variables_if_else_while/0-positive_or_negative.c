@@ -5,7 +5,7 @@
 
 /**
  * main - determines if a number is positive, negative or ze
-  ro
+  ro.
  *
  * Return: Always 0 (success)
  */
