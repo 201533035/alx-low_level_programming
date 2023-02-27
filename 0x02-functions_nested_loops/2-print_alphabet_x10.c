@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet_x10 - print x10  alphabet in lowercase
- * Return: 0
+ * Return: void
  */
 
 void print_alphabet_x10(void)
@@ -19,4 +19,5 @@ i++;
 }
 
 
+}
 }
